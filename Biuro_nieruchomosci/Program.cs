@@ -6,7 +6,7 @@ namespace Biuro_nieruchomosci
     {
         static void Main(string[] args)
         {
-
+            ///komentarz
             
         }
     }
